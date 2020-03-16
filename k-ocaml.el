@@ -3,8 +3,8 @@
 ;;; Code:
 
 
-(load "/home/ic_king/.opam/default/share/emacs/site-lisp/tuareg-site-file")
-(load "/home/ic_king/.opam/default/share/emacs/site-lisp/tuareg-menhir")
+(load "/home/*/.opam/default/share/emacs/site-lisp/tuareg-site-file")
+(load "/home/*/.opam/default/share/emacs/site-lisp/tuareg-menhir")
 
 (autoload 'tuareg-mode "tuareg" "Tuareg mode" t)
 (load "tuareg-site-file")
